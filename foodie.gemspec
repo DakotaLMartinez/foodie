@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "Foodie Gem tutorial"
   spec.description   = "My version of the foodie gem tutorial"
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/DakotaLMartinez/foodie.git"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
